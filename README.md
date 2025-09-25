@@ -63,8 +63,7 @@ Follow these steps to run the application locally:
 ## 5. Folder Structure
 
 ```
-clickstream_project/
-├── .gitignore          # Files to be ignored by Git
+clickstream_project
 ├── app.py              # Main Streamlit application script
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Project documentation
