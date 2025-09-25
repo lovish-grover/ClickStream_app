@@ -64,7 +64,6 @@ Follow these steps to run the application locally:
 
 ```
 clickstream_project/
-├── .gitignore          # Files to be ignored by Git
 ├── app.py              # Main Streamlit application script
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Project documentation
